@@ -17,3 +17,7 @@
 - 熟悉钱包业务如充值、提现、归集、转冷、离线签名、离线地址生成、扫链、质押、赎回等
 - 熟悉常见共识算法POW，POS，DPOS，BFT，POA等
 - 英语可做为工作语言
+
+📧 Email: 
+- dravenzhang805@gmail.com
+
